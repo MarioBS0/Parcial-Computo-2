@@ -1,2 +1,5 @@
 # Parcial-Computo-2
-Este el repositorio correspondiente del parcial del segundo computo.
+Integrantes:
+Mario Antonio Barahona Sorto,
+Lilian Amaraly Perla Arias,
+Flor Gudalupe Villatoro Vasquez.
